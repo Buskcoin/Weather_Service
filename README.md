@@ -1,1 +1,1 @@
-Possible group project from CST438 - Software Engineering
+Possible group project for CST438 - Software Engineering
