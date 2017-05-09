@@ -1,9 +1,8 @@
 
 package com.grossmont.ws;
 
-public class Weather {
-    
-    // Instance Variables
+public class Weather 
+{  
     public Weather_Main main;
     String name = "";
 }

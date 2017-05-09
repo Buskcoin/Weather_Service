@@ -1,9 +1,8 @@
 
 package com.grossmont.ws;
 
-public class Weather_Main {
-    
-    // Instance Variables
+public class Weather_Main 
+{  
     float temp = 0;
     float pressure = 0;
     float humidity = 0;
